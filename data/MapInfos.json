@@ -1,0 +1,18 @@
+[
+null,
+{"id":1,"expanded":true,"name":"西游世界","order":1,"parentId":0,"scrollX":7810.285714285714,"scrollY":4299.428571428572},
+{"id":2,"expanded":false,"name":"诞生","order":2,"parentId":1,"scrollX":996,"scrollY":1244},
+{"id":3,"expanded":true,"name":"傲来国","order":5,"parentId":13,"scrollX":2278,"scrollY":1254},
+{"id":4,"expanded":true,"name":"傲来村","order":7,"parentId":3,"scrollX":996,"scrollY":1244},
+{"id":5,"expanded":false,"name":"方寸地","order":6,"parentId":3,"scrollX":2278,"scrollY":1087},
+{"id":6,"expanded":false,"name":"武器商店","order":8,"parentId":4,"scrollX":2278,"scrollY":1254},
+{"id":7,"expanded":false,"name":"护甲商店","order":9,"parentId":4,"scrollX":2278,"scrollY":1254},
+{"id":8,"expanded":false,"name":"物品商店","order":10,"parentId":4,"scrollX":2278,"scrollY":1087},
+{"id":9,"expanded":false,"name":"旅馆 1F","order":11,"parentId":4,"scrollX":2278,"scrollY":1254},
+{"id":10,"expanded":false,"name":"傲来村北","order":12,"parentId":3,"scrollX":2278,"scrollY":1254},
+null,
+{"id":12,"expanded":true,"name":"南赡部洲","order":3,"parentId":1,"scrollX":7810.285714285714,"scrollY":4299.428571428572},
+{"id":13,"expanded":true,"name":"东胜神洲","order":4,"parentId":1,"scrollX":7810.285714285714,"scrollY":4299.428571428572},
+{"id":14,"expanded":true,"name":"西牛贺洲","order":13,"parentId":1,"scrollX":2278,"scrollY":1254},
+{"id":15,"expanded":false,"name":"北俱芦洲","order":14,"parentId":1,"scrollX":7810.285714285714,"scrollY":4299.428571428572}
+]
